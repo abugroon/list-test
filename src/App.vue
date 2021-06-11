@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="container">
-      <img alt="Vue logo" src="./assets/logo.png" style="height: 120px;margin-top: 20%">
+      <img alt="Vue logo" src="./assets/logo.png" style="height: 120px;margin-top: 250px">
       <div class="row">
         <div class="col-12">
           <p>
